@@ -1,4 +1,4 @@
-# Hugo Clarity
+# চকরিয়া অনলাইন রিপোর্টার্স ক্লাব
 
 A technology-minded theme for Hugo based on VMware's open-source [Clarity Design System](https://clarity.design/) featuring rich code support, dark/light mode, mobile support, and much more. See [a live demo at __neonmirrors.net__](https://neonmirrors.net/).
 
@@ -16,7 +16,7 @@ A technology-minded theme for Hugo based on VMware's open-source [Clarity Design
 |---| --- |
 | ![Clarity Hugo Theme mobile light](https://github.com/chipzoller/hugo-clarity/blob/master/images/screenshot-mobile.png) | ![Clarity Hugo Theme mobile dark](https://github.com/chipzoller/hugo-clarity/blob/master/images/screenshot-mobile-darkmode.png) |
 
-## Table of Contents
+## আপনি জিজ্ঞাসা
 
 * [Features](#features)
 * [Prerequisites](#prerequisites)
